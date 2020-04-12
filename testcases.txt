@@ -1,0 +1,38 @@
+#test case 1
+Processes  Burst time  Waiting time  Turn around time
+ 1           6               3            9
+ 2           8               16           24
+ 3           7               8            15
+ 4           3               0             3
+Average waiting time = 6.75
+
+
+#test case 2
+Process    Arrival time    Burst Time 
+
+1                      0                     6 
+
+2                      3                      2 
+
+3                      5                      1 
+
+4                      9                      7 
+
+5                      10                    5 
+
+6                      12                    3 
+
+7                      14                   4 
+
+8                      16                    5 
+
+9                      17                    7 
+
+10                    19                    2 
+
+
+ 
+
+ 
+
+ 
